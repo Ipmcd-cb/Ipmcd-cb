@@ -1,7 +1,6 @@
-# Hi there, i'm Ian
+# Hi there, I'm $GH_USER
 
 ```bash
-#!/usr/bin/env bash
+#!/user/bin/env bash
 echo "Building, breaking, and securing networks & systems."
 ```
-
