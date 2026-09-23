@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Stay hungry, stay foolish." - Steve Jobs
+> "I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over." — *Muhammad Yunus*
 <!-- QUOTE_END -->
