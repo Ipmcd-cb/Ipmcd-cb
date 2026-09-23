@@ -33,7 +33,7 @@ jobs:
           python3 -c "
           import re
 
-          with open('README.md', 'r') as f:
+          with open('READIT.md', 'r') as f:
               content = f.read()
 
           replacement = '<!-- QUOTE_START -->\n' + '''${FORMATTED_LINE}''' + '\n<!-- QUOTE_END -->'
@@ -41,7 +41,7 @@ jobs:
 
           new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
-          with open('README.md', 'w') as f:
+          with open('READIT.md', 'w') as f:
               f.write(new_content)
           "
 
