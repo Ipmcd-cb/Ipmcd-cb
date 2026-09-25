@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "I Myself Prefer My New Zealand Eggs For Breakfast." — *Elizabeth II*
+> "We have one life; it soon will be past; what we do for God is all that will last." — *Muhammad Ali*
 <!-- QUOTE_END -->
