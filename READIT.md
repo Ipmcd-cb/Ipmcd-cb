@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "We have one life; it soon will be past; what we do for God is all that will last." — *Muhammad Ali*
+> "Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech." — *Benjamin Franklin*
 <!-- QUOTE_END -->
