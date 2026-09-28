@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life is a difficult game. You can win it only by retaining your birthright to be a person." — *Abdul Kalam*
+> "Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be." — *Zig Ziglar*
 <!-- QUOTE_END -->
