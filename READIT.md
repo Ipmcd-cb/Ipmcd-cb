@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be." — *Zig Ziglar*
+> "What Do I Wear In Bed? Why, Chanel No. 5, Of Course." — *Marilyn Monroe*
 <!-- QUOTE_END -->
