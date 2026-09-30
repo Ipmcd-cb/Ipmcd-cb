@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "What Do I Wear In Bed? Why, Chanel No. 5, Of Course." — *Marilyn Monroe*
+> "Do not be too hard, lest you be broken; do not be too soft, lest you be squeezed." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
