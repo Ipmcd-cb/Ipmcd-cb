@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "In The Depth Of Winter I Finally Learned That There Was In Me An Invincible Summer." — *Albert Camus*
+> "Failure Is A Detour, Not A Dead-End Street." — *Zig Ziglar*
 <!-- QUOTE_END -->
