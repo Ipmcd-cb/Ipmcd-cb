@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Failure Is A Detour, Not A Dead-End Street." — *Zig Ziglar*
+> "There is no Love greater than Love with no object. For then you, yourself, have become love, itself." — *Rumi*
 <!-- QUOTE_END -->
