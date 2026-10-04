@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "There is no Love greater than Love with no object. For then you, yourself, have become love, itself." — *Rumi*
+> "Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere." — *Carl Sagan*
 <!-- QUOTE_END -->
