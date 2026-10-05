@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere." — *Carl Sagan*
+> "Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See." — *Martin Luther*
 <!-- QUOTE_END -->
