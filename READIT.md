@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See." — *Martin Luther*
+> "God Helps Those Who Help Themselves." — *Benjamin Franklin*
 <!-- QUOTE_END -->
