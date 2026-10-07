@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "God Helps Those Who Help Themselves." — *Benjamin Franklin*
+> "The Cautious Seldom Err." — *Confucius*
 <!-- QUOTE_END -->
