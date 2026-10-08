@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Cautious Seldom Err." — *Confucius*
+> "If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself." — *Henry Ford*
 <!-- QUOTE_END -->
