@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself." — *Henry Ford*
+> "Women are not a garment you wear and undress however you like. They are honored and have their rights." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
