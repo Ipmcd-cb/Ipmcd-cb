@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Women are not a garment you wear and undress however you like. They are honored and have their rights." — *Umar ibn Al-Khattāb (R.A)*
+> "I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith." — *Umar ibn Al-Khattāb (R.A)*
 <!-- QUOTE_END -->
