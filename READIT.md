@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "How Hard, How Bitter It Is To Become A Man!" — *Albert Camus*
+> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow." — *Benjamin Franklin*
 <!-- QUOTE_END -->
