@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow." — *Benjamin Franklin*
+> "I Like My Wine Like My Women - Ready To Pass Out." — *Robin Williams*
 <!-- QUOTE_END -->
