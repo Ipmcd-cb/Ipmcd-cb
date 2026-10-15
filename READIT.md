@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "I Like My Wine Like My Women - Ready To Pass Out." — *Robin Williams*
+> "Life Loves The Liver Of It." — *Maya Angelou*
 <!-- QUOTE_END -->
