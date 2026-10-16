@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life Loves The Liver Of It." — *Maya Angelou*
+> "The Public Is Merely A Multiplied "Me."" — *Mark Twain*
 <!-- QUOTE_END -->
