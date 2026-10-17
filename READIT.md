@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Public Is Merely A Multiplied "Me."" — *Mark Twain*
+> "Not Life, But Good Life, Is To Be Chiefly Valued." — *Socrates*
 <!-- QUOTE_END -->
