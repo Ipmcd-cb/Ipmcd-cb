@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses." — *Abraham Lincoln*
+> "When Obstacles Arise, You Change Your Direction To Reach Your Goal; You Do Not Change Your Decision To Get There." — *Zig Ziglar*
 <!-- QUOTE_END -->
