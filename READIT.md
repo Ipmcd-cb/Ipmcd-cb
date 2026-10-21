@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "When Obstacles Arise, You Change Your Direction To Reach Your Goal; You Do Not Change Your Decision To Get There." — *Zig Ziglar*
+> "Abstinence from sins is better than seeking help afterwards." — *Ali ibn Abi Talib (R.A)*
 <!-- QUOTE_END -->
