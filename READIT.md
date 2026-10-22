@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Abstinence from sins is better than seeking help afterwards." — *Ali ibn Abi Talib (R.A)*
+> "Why are you so enchanted by this world, when a mine of gold lies within you?" — *Rumi*
 <!-- QUOTE_END -->
