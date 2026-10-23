@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Why are you so enchanted by this world, when a mine of gold lies within you?" — *Rumi*
+> "The Superior Man Acts Before He Speaks, And Afterwards Speaks According To His Action." — *Confucius*
 <!-- QUOTE_END -->
