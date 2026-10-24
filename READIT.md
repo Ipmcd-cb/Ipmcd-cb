@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Superior Man Acts Before He Speaks, And Afterwards Speaks According To His Action." — *Confucius*
+> "Many A Man Thinks He Is Buying Pleasure, When He Is Really Selling Himself To It." — *Benjamin Franklin*
 <!-- QUOTE_END -->
