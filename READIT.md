@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Many A Man Thinks He Is Buying Pleasure, When He Is Really Selling Himself To It." — *Benjamin Franklin*
+> "There Are Two Sides To Every Issue: One Side Is Right And The Other Is Wrong, But The Middle Is Always Evil." — *Ayn Rand*
 <!-- QUOTE_END -->
