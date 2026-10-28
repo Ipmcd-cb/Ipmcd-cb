@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Wars Are Caused By Undefended Wealth." — *Ernest Hemingway*
+> "Sell your cleverness and buy bewilderment." — *Rumi*
 <!-- QUOTE_END -->
