@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Sell your cleverness and buy bewilderment." — *Rumi*
+> "God blesses him who helps his brother." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
