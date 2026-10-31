@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Let Blockheads Read What Blockheads Wrote." — *Warren Buffett*
+> "Great Ideas Originate In The Muscles." — *Thomas A. Edison*
 <!-- QUOTE_END -->
