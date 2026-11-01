@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Great Ideas Originate In The Muscles." — *Thomas A. Edison*
+> "Float like a butterfly, sting like a bee." — *Muhammad Ali*
 <!-- QUOTE_END -->
