@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Float like a butterfly, sting like a bee." — *Muhammad Ali*
+> "It Has Become Appallingly Obvious That Our Technology Has Exceeded Our Humanity." — *Albert Einstein*
 <!-- QUOTE_END -->
