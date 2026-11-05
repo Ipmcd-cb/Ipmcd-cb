@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Many A Man Thinks He Is Buying Pleasure, When He Is Really Selling Himself To It." — *Benjamin Franklin*
+> "Life is a gamble. You can get hurt, but people die in plane crashes, lose their arms and legs in car accidents; people die every day. Same with fighters: some die, some get hurt, some go on. You just don't let yourself believe it will happen to you." — *Muhammad Ali*
 <!-- QUOTE_END -->
