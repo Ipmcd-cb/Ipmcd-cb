@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life is a gamble. You can get hurt, but people die in plane crashes, lose their arms and legs in car accidents; people die every day. Same with fighters: some die, some get hurt, some go on. You just don't let yourself believe it will happen to you." — *Muhammad Ali*
+> "Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing." — *Mother Teresa*
 <!-- QUOTE_END -->
