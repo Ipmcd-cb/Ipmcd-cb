@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing." — *Mother Teresa*
+> "One May Sometimes Tell A Lie, But The Grimace That Accompanies It Tells The Truth." — *Friedrich Nietzsche*
 <!-- QUOTE_END -->
