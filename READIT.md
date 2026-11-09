@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "I am grateful for all my victories, but I am especially grateful for my losses, because they only made me work harder." — *Muhammad Ali*
+> "When setting out on a journey do not seek advice from someone who never left home." — *Rumi*
 <!-- QUOTE_END -->
