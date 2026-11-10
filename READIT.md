@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "When setting out on a journey do not seek advice from someone who never left home." — *Rumi*
+> "Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself." — *Rumi*
 <!-- QUOTE_END -->
