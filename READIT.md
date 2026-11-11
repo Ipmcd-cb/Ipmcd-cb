@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Fasting is the first principle of medicine; fast and see the strength of the spirit reveal itself." — *Rumi*
+> "For Where God Built A Church, There The Devil Would Also Build A Chapel." — *Martin Luther*
 <!-- QUOTE_END -->
