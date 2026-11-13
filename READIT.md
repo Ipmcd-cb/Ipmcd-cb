@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "Patience is the healthiest ingredient of our life." — *Umar ibn Al-Khattāb (R.A)*
+> "If you only say one prayer in a day make it Thank You." — *Rumi*
 <!-- QUOTE_END -->
