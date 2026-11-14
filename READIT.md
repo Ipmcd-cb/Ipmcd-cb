@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "If you only say one prayer in a day make it Thank You." — *Rumi*
+> "He who builds a masjid in the way of Allah, God will build a house for him in the paradise." — *Abu Bakr (R.A)*
 <!-- QUOTE_END -->
