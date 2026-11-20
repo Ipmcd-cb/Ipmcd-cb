@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "I'M Not Even Kind Of A Lesbian." — *Oprah Winfrey*
+> "Wherever you stand, be the soul of that place." — *Rumi*
 <!-- QUOTE_END -->
