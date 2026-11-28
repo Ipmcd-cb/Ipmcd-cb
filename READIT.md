@@ -1,4 +1,4 @@
  ### Daily Tech Quote
 <!-- QUOTE_START -->
-> "The Roots Of All Goodness Lie In The Soil Of Appreciation For Goodness." — *Dalai Lama*
+> "A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On." — *Winston Churchill*
 <!-- QUOTE_END -->
